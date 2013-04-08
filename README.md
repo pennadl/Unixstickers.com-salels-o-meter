@@ -1,4 +1,4 @@
-## ARDUINO SALES-O-METER - unixstickers.com
+## Arduino sales-o-meter | unixstickers.com
 
 ***************
 sales-o-meter project by Stefano Di Luca
