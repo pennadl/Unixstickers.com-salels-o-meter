@@ -17,7 +17,7 @@ Servo myServo;
 
 
 //** WIFI CONFIGURATION
-char ssid[] = "NETWORK SSID NAME";       //  your network SSID (name) 
+char ssid[] = "NETWORK SSID NAME";       // your network SSID (name) 
 char pass[] = "NETWORK PASS";            // your network password (use for WPA, or use as key for WEP)
 int keyIndex = 0;                        // your network key Index number (needed only for WEP)
 int status = WL_IDLE_STATUS;             // Initital status of the wifi connection
@@ -32,7 +32,7 @@ char server[] = "YOUR HOSTNAME";         // name address
 
 //** CONFIGURE PINS
 const int greenLEDPin = 2;               // Green LED connected to digital pin 3
-const int redLEDPin = 3;                 // Ref LED connected to digital pin 3
+const int redLEDPin = 3;                 // Red LED connected to digital pin 3
 const int servoPin = 8;                  // Servo pin
 
 
