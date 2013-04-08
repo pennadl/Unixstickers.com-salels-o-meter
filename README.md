@@ -1,8 +1,7 @@
-## Arduino sales-o-meter | unixstickers.com
+## Unixstickers.com sales-o-meter - Powered by Arduino
 
 ***************
-sales-o-meter project by Stefano Di Luca
-unixstickers.com
+**sales-o-meter project by Stefano Di Luca - unixstickers.com**
 
 [See complete blog post](http://blog.unixstickers.com/2013/04/unixstickers-sales-meter-powered-by-arduino/)
 ***************
