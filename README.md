@@ -38,7 +38,7 @@ TO
 **PINS** (Change these values in order to fulfill your Arduino configuration)
 
     const int greenLEDPin = 2;               // Green LED connected to digital pin 3
-    const int redLEDPin = 3;                 // Ref LED connected to digital pin 3
+    const int redLEDPin = 3;                 // Red LED connected to digital pin 3
     const int servoPin = 8;                  // Servo analog pin
 
 
